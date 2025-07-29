@@ -100,7 +100,7 @@ The agent follows a **multi-stage intelligent routing approach**:
 ### Running the Agent
 
 ```bash
-python main.py
+python RAGAgent_with_query_reformulation_fallback.py
 ```
 
 The agent will start an interactive session where you can ask questions about stock market performance.
